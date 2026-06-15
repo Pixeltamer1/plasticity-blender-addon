@@ -73,4 +73,4 @@ This fork adds:
 
 ## 📄 License
 
-GPL v2
+GPL v2 — based on the original work by [Nick Kallen](https://github.com/nkallen/plasticity-blender-addon)
